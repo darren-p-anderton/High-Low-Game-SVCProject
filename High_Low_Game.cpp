@@ -1,5 +1,6 @@
 //Program by Darren Anderton
 //This program is a game where the user must guess a randomly generated number between 1 and 100
+//All code written is original unless otherwise specified, though sections may be based on examples from teachers or open source resouces
 
 #include<iostream>
 #include<fstream>
